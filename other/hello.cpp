@@ -8,4 +8,7 @@ for(int i=0;i<10;i++)
 {
     cout<<"New"<<endl;
 }
+
+ListNode* head = new ListNode(1);
+return 0;
 }
