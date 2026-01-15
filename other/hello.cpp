@@ -30,3 +30,9 @@ void function4()
 {
     cout<<"Function 4"<<endl;
 }
+
+void function4()
+{
+    cout<<"Function 4"<<endl;
+    cout<<"commit2"<<endl;
+}
