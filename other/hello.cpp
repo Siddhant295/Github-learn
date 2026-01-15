@@ -25,3 +25,21 @@ For (int i=0;i<5;i++)
 return 0;
 
 }
+
+void function4()
+{
+    cout<<"Function 4"<<endl;
+}
+
+void function4()
+{
+    cout<<"Function 4"<<endl;
+    cout<<"commit2"<<endl;
+}
+
+
+void function4()
+{
+    cout<<"Function 4"<<endl;
+    cout<<"commit3"<<endl;
+}
