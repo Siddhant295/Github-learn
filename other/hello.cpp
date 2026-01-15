@@ -25,3 +25,8 @@ For (int i=0;i<5;i++)
 return 0;
 
 }
+
+void function4()
+{
+    cout<<"Function 4"<<endl;
+}
